@@ -1,3 +1,6 @@
+# user instruction:
+"After building or adding new features to the project or app, always run the tests and check the logs until every new functions and features work properly."
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
